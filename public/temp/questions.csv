@@ -1,0 +1,21 @@
+question,options,correct_ans,difficulty,marks,tags,createdAt,createdBy
+What is the square root of 64?,"8,7,6,5,8",8,Easy,2,"math,squareroot",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+"If you borrow $5000 at an interest rate of 10% per year for 2 years, how much compound interest will you pay?","$1050,$1000,$1025,$1100",$1050,Hard,10,"math,compound interest",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+"A cuboid has dimensions 3 cm, 4 cm, and 5 cm. What is its volume?","60 cm³,70 cm³,50 cm³,55 cm³",60 cm³,Medium,5,"math,mensuration",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the value of sin(90°)?,"1,0,-1,0.5,",1,Easy,2,"math,trigonometry",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Find the hypotenuse of a right triangle with sides 6 cm and 8 cm.,"10 cm,9 cm,11 cm,12 cm",10 cm,Medium,5,"math,triangles",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Factorize: x² + 5x + 6,"(x+2)(x+3),(x+1)(x+6),(x-2)(x+3),(x-1)(x+6)",(x+2)(x+3),Hard,10,"math,algebra",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the planet closest to the Sun?,"Mercury,Venus,Mars,Earth",Mercury,Easy,2,"science,planets",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Which gas is most abundant in Earth's atmosphere?,"Nitrogen,Oxygen,Carbon Dioxide,Argon",Nitrogen,Medium,5,"science,air",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What happens when an acid reacts with a metal?,"Hydrogen gas is released,Oxygen gas is released,Water is formed,No reaction",Hydrogen gas is released,Medium,5,"science,acids and bases",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the primary function of chlorophyll in plants?,"Photosynthesis,Respiration,Transpiration,Growth",Photosynthesis,Easy,2,"science,plants",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the SI unit of electric current?,"Ampere,Volt,Ohm,Coulomb",Ampere,Easy,2,"science,electricity",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+A magnet has two poles: north and?,"South,East,West,North",South,Easy,2,"science,magnetism",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the term for the exchange of goods and services without using money?,"Barter,Trade,Commerce,Exchange",Barter,Medium,5,"social science,economics",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Which layer of Earth is responsible for its magnetic field?,"Core,Mantle,Crust,Hydrosphere",Core,Medium,5,"social science,geography",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the process by which water changes from liquid to gas called?,"Evaporation,Condensation,Precipitation,Transpiration",Evaporation,Medium,5,"science,water cycle",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the name of the acid found in lemons?,"Citric acid,Hydrochloric acid,Sulfuric acid,Acetic acid",Citric acid,Easy,2,"science,acids and bases",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Who is known as the Father of the Indian Constitution?,"Dr. B.R. Ambedkar,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel",Dr. B.R. Ambedkar,Easy,2,"social science,civics",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+What is the formula for the area of a triangle?,"0.5*base*height,base*height,length*width,2*length+2*width",0.5*base*height,Hard,10,"math,geometry",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Name the planet known as the Red Planet.,"Mars,Jupiter,Venus,Saturn",Mars,Easy,2,"science,planets",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c
+Which of these metals is liquid at room temperature?,"Mercury,Gold,Iron,Copper",Mercury,Hard,10,"science,metals",2024-11-20T00:00:00.000Z,673c374016eb011590c08e8c

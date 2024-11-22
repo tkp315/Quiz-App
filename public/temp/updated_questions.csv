@@ -1,0 +1,32 @@
+question,options,correct_ans,difficulty,marks,tags,createdAt,createdBy,Grade,Subject,Difficulty,Question
+What is the capital of France?,"Paris,London,Berlin,Madrid",Paris,Easy,5.0,"geography,capital",2024-11-19T06:51:52.882230,673c374016eb011590c08e8c,,,,
+What is 2+2?,"3,4,5,6",4,Easy,2.0,"math,arithmetic",2024-11-19T06:51:52.882245,673c374016eb011590c08e8c,,,,
+Who wrote 'Hamlet'?,"Shakespeare,Dickens,Tolstoy,Hemingway",Shakespeare,Medium,10.0,"literature,playwright",2024-11-19T06:51:52.882249,673c374016eb011590c08e8c,,,,
+What is the boiling point of water?,"100C,90C,120C,150C",100C,Medium,5.0,"science,chemistry",2024-11-19T06:51:52.882251,673c374016eb011590c08e8c,,,,
+Who discovered gravity?,"Newton,Einstein,Galileo,Kepler",Newton,Easy,3.0,"science,physics",2024-11-19T06:51:52.882254,673c374016eb011590c08e8c,,,,
+What is the chemical formula for water?,"H2O,CO2,O2,H2",H2O,Easy,2.0,"science,chemistry",2024-11-19T06:51:52.882257,673c374016eb011590c08e8c,,,,
+Who painted the Mona Lisa?,"Leonardo da Vinci,Van Gogh,Picasso,Rembrandt",Leonardo da Vinci,Medium,8.0,"art,painting",2024-11-19T06:51:52.882260,673c374016eb011590c08e8c,,,,
+What is the largest planet in the solar system?,"Jupiter,Saturn,Earth,Mars",Jupiter,Easy,4.0,"astronomy,planets",2024-11-19T06:51:52.882264,673c374016eb011590c08e8c,,,,
+What is the powerhouse of the cell?,"Mitochondria,Nucleus,Ribosome,Chloroplast",Mitochondria,Medium,6.0,"biology,cell",2024-11-19T06:51:52.882267,673c374016eb011590c08e8c,,,,
+What is the square root of 64?,"6,8,10,12",8,Easy,2.0,"math,arithmetic",2024-11-19T06:51:52.882270,673c374016eb011590c08e8c,,,,
+,,,,,,,,7.0,Math,Easy,What is 7 + 8?
+,,,,,,,,7.0,Math,Easy,Solve: 12 ÷ 4.
+,,,,,,,,7.0,Science,Easy,What is the boiling point of water in Celsius?
+,,,,,,,,7.0,Science,Easy,Name one type of energy.
+,,,,,,,,7.0,English,Easy,What is the plural form of 'child'?
+,,,,,,,,7.0,Social Science,Medium,Who was the first President of India?
+,,,,,,,,7.0,Social Science,Medium,Name the longest river in the world.
+,,,,,,,,7.0,Math,Medium,What is 5 × 12?
+,,,,,,,,7.0,Science,Medium,Explain the water cycle.
+,,,,,,,,7.0,English,Medium,Identify the verb in this sentence: 'The cat runs fast.'
+,,,,,,,,7.0,Math,Hard,Find the area of a rectangle with length 10 cm and breadth 5 cm.
+,,,,,,,,7.0,Science,Hard,What is photosynthesis?
+,,,,,,,,7.0,Social Science,Hard,Explain the causes of the French Revolution.
+,,,,,,,,8.0,Math,Easy,What is 9 × 9?
+,,,,,,,,8.0,Science,Easy,Name one planet in our solar system.
+,,,,,,,,8.0,Social Science,Easy,What is the capital of India?
+,,,,,,,,8.0,English,Medium,What is the past tense of 'go'?
+,,,,,,,,8.0,Math,Medium,Solve: 3x + 5 = 11.
+,,,,,,,,8.0,Science,Medium,What is the function of the heart?
+,,,,,,,,8.0,Math,Hard,Find the square root of 144.
+,,,,,,,,8.0,Social Science,Hard,What is democracy?

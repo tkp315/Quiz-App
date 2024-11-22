@@ -1,0 +1,7 @@
+export const DB_NAME ="quiz"
+export const TEACHER ="Teacher"
+export const STUDENT ="Student"
+export const ADMIN ="Admin"
+export const EASY ="Easy"
+export const MEDIUM ="Medium"
+export const HARD ="Hard"
