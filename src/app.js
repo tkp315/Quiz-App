@@ -23,10 +23,13 @@ import { questionRouter } from './routes/question.route.js';
 import { reportRouter } from './routes/report.route.js';
 import { quizRouter } from './routes/quiz.route.js';
 
+
 app.use("/api/v1/user",userRouter);
 app.use("/api/v1/profile",profileRouter);
 app.use("/api/v1/question",questionRouter);
 app.use("/api/v1/report",reportRouter);
 app.use("/api/v1/quiz",quizRouter);
+
+
 
 export default app;

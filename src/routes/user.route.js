@@ -9,4 +9,5 @@ userRouter.route('/login').post(login)
 userRouter.route('/logout').post(verifyJWT,logout)
 userRouter.route('/google').post(googleLogin)
 userRouter.route('/delete-account').post(verifyJWT,deleteAccount)
+
 export {userRouter}

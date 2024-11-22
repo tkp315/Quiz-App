@@ -55,3 +55,4 @@ export const googleLogin = asyncHandlerFunction(async (req, res) => {
     .cookie("refreshToken", refreshToken, option)
     .json(new ApiResponse(200, newuser, "Successfully logged in using google"));
 });
+
