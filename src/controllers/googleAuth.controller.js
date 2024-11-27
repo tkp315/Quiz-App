@@ -19,17 +19,15 @@ export const googleLogin = asyncHandlerFunction(async (req, res) => {
 
   const alreadyuser = await User.findOne({ email });
 
-  if (alreadyuser) {
-    throw new ApiError(401, "User already registered");
-  }
-
-  const newuser = await User.create({
+let newuser=alreadyuser;
+let googleProfile;
+if(!alreadyuser){
+ newuser = await User.create({
     email,
     name,
     googleId: email,
     role,
   });
-
   const profile = await Profile.create({
     user: newuser._id,
     grade: null,
@@ -37,6 +35,9 @@ export const googleLogin = asyncHandlerFunction(async (req, res) => {
     picture: null,
   });
   newuser.profile = profile._id;
+  googleProfile= await Profile.findById(profile._id).populate('reports').populate('createdQuizes');
+}
+  googleProfile = await Profile.findById(newuser.profile).populate('reports').populate('createdQuizes');
   const accessToken = newuser.generateAccessToken(newuser._id);
   const refreshToken = newuser.generateRefreshToken(newuser._id);
 
@@ -53,6 +54,6 @@ export const googleLogin = asyncHandlerFunction(async (req, res) => {
     .status(200)
     .cookie("accessToken", accessToken, option)
     .cookie("refreshToken", refreshToken, option)
-    .json(new ApiResponse(200, newuser, "Successfully logged in using google"));
+    .json(new ApiResponse(200, {user:newuser,profile:googleProfile}, "Successfully logged in using google"));
 });
 

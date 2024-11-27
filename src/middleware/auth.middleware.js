@@ -7,6 +7,7 @@ import {ADMIN, STUDENT, TEACHER} from '../constants.js'
 const verifyJWT = asyncHandlerFunction(async (req, res, next) => {
     try {
       let token = req.cookies.accessToken || req.header("Authorization")?.replace("Bearer ", "");
+     console.log(token)      
 
       if (!token) {
         throw new ApiError(401, "Invalid Token");
